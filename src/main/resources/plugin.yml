@@ -1,0 +1,4 @@
+name: StaminaPlugin
+main: me.namamu.staminaplugin.StaminaPlugin
+version: 1.0
+api-version: 1.20
